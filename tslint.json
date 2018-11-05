@@ -1,0 +1,7 @@
+{
+  "extends": ["tslint-config-fishbrain"],
+  "rules": {
+    "no-this": true,
+    "no-class": true
+  }
+}
